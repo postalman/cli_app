@@ -12,8 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "nanoid": "^4.0.2"
+  },
+  "devDependencies": {
     "commander": "^11.0.0",
-    "nanoid": "^4.0.2",
     "nodemon": "^3.0.1"
   }
 }
